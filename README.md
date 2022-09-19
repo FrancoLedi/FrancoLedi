@@ -5,7 +5,7 @@
 This year I studied at the SoyHenry bootcamp to dedicate myself to living from what I love to do ♥. The knowledge acquired in web development, complemented by my previous experience as an employee at McDonalds, makes me stand out as a developer with communication and social skills that allow me to adapt to successful teamwork and have a customer satisfaction-oriented approach. If you are looking for a proactive developer who joins the team quickly to start working as soon as possible... CONTACT me!
 
 
-## :paperclip: Technologies:
+## :robot: Technologies:
 
 <p align="left">
     <h4>Front-end</h4>
