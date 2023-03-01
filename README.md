@@ -68,7 +68,7 @@ This year I studied at the SoyHenry bootcamp to dedicate myself to living from w
 
 ## :paperclip: How to reach me:
 <span >
-<a href="https://www.linkedin.com/in/francoledesma/" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="santicervan" height="20" width="30" />
+<a href="https://www.linkedin.com/in/francoledesma/" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="santicervan" height="25" width="35" />
         </a>   &nbsp;
-<a href="mailto:francoivanledesma551@gmail.com" ><img align="center" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" /> </a>
+<a href="mailto:francoivanledesma551@gmail.com" ><img align="center" alt="Piyush Pravin | Gmail" width="31px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" /> </a>
 </span>
