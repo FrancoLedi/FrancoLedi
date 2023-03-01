@@ -24,7 +24,7 @@ This year I studied at the SoyHenry bootcamp to dedicate myself to living from w
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
     </a>
-     <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+     <a href="https://postcss.org" target="_blank" rel="noreferrer">
         <img src="https://api.iconify.design/vscode-icons/file-type-postcss.svg" alt="postcss" width="40" height="40"/>
     </a>
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
@@ -40,8 +40,14 @@ This year I studied at the SoyHenry bootcamp to dedicate myself to living from w
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
     </a>
-    <a href="https://heroku.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+    <a href="https://railway.app" target="_blank" rel="noreferrer">
+        <img src="https://api.iconify.design/simple-icons/railway.svg" alt="railway" width="40" height="40"/>
+    </a>
+    <a href="https://expressjs.com/es/" target="_blank" rel="noreferrer">
+        <img src="https://api.iconify.design/logos/express.svg" alt="express" width="40" height="40"/>
+    </a>
+    <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
+        <img src="https://api.iconify.design/vscode-icons/file-type-sequelize.svg" alt="sequelize" width="40" height="40"/>
     </a>
     <h4>Others</h4>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -52,6 +58,12 @@ This year I studied at the SoyHenry bootcamp to dedicate myself to living from w
     </a>
     <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"                      alt="webpack" width="40" height="40"/>
+    </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://api.iconify.design/logos/figma.svg" alt="figma" width="40" height="40"/>
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://api.iconify.design/logos/typescript-icon.svg" alt="typescript" width="40" height="40"/>
     </a>
 
 ## :paperclip: How to reach me:
