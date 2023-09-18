@@ -2,7 +2,13 @@
 
 <img height=300px width=100% src='https://static.vecteezy.com/system/resources/previews/003/334/913/non_2x/desktop-source-code-and-wallpaper-by-coding-and-programming-free-photo.jpg'/>
 
-This year I studied at the SoyHenry bootcamp to dedicate myself to living from what I love to do ♥. The knowledge acquired in web development, complemented by my previous experience as an employee at McDonalds, makes me stand out as a developer with communication and social skills that allow me to adapt to successful teamwork and have a customer satisfaction-oriented approach. If you are looking for a proactive developer who joins the team quickly to start working as soon as possible... CONTACT me!
+Hello! In 2022, after the pandemic, I decided to quit my job and start studying at the SoyHenry bootcamp to dedicate myself to making a living doing what I love to do ♥. The knowledge acquired in web development complemented by my previous experience as an employee at McDonalds highlights me as a developer with communication and social skills that allow me to adapt to working as a team successfully and having an approach oriented to customer satisfaction.
+
+As a developer I have experience implementing the following technology stack: React, Express, Node, PostgreSQL, PostCSS and TypeScript as a language among others...
+I am especially passionate about everything related to Front-End and UI/UX.
+
+I was recently gaining valuable work experience providing my service as a web developer for an American company with international clientele.
+If you are looking for a proactive developer who can quickly join the team to start working as soon as possible... I invite you to contact me at the following address! :📩francoivanledesma551@gmail.com
 
 
 ## :robot: Technologies:
